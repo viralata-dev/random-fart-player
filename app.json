@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "df6518ef-6b37-4dae-927d-0ed85779e6c1"
+      }
+    },
+    "owner": "viralata.dev"
   }
 }
